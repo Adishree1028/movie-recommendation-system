@@ -1,2 +1,18 @@
-# movie-recommendation-system
-Machine Learning based movie recommendation system using Python, Pandas, Scikit-learn and Flask.
+# Movie Recommendation System
+
+This project recommends movies using machine learning algorithms.
+
+Technologies Used
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Flask
+
+Features
+- Content-based recommendation
+- User movie suggestions
+- Simple web interface
+
+Author
+Aditi Patil
